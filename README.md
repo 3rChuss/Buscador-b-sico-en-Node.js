@@ -1,7 +1,7 @@
 # Buscador-b-sico-en-Node.js
 
-=================================================
-npm init
-npm install --save express
-node index.js
-=================================================
+>=================================================
+- npm init
+- y de instalar express 4.16.3 utilizando
+- npm install express
+>=================================================

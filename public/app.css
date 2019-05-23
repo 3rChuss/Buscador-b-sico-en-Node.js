@@ -1,0 +1,67 @@
+
+body {
+  background-color: #bdc3c7;
+}
+
+nav div > h4 {
+  margin: 0;
+  padding-top: .5em;
+}
+
+select {
+  display: block !important;
+}
+
+#buscar {
+  margin: 2em 0;
+}
+
+.card-content, .card-action {
+    padding: 5px !important;
+    margin: 0px !important;
+}
+
+.card-stacked{
+  width: 65%;
+}
+
+.card-action{
+  text-align: right;
+}
+
+.panel {
+  position: fixed;
+}
+
+.invisible {
+  display: none;
+}
+
+div.lista .card:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+div.lista {
+  max-height: 100%;
+  overflow: auto;
+}
+
+.lista img {
+  max-width: 250px !important;
+}
+
+#personalizada {
+  margin-top: 1em;
+}
+
+.select-wrapper {
+  width: 50%;
+  margin: 0 auto !important;
+}
+
+.precioTexto{
+  font-size: 1.3rem;
+  color: #ffab40;
+}
+
